@@ -12,9 +12,7 @@ public class MemberContoller {
     @Autowired
     public MemberContoller(MemberService memberService) {
         this.memberService = memberService;
-        //hesdfasfassdfafffdsfdsd
-        //hesdfasfassdfafffdsfdsd
-        //hesdfasfassdfafffdsfdsd
+
     }
 }
 
